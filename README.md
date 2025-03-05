@@ -1,10 +1,49 @@
 # Portfólio de Projetos - Rafael Fernandes Durães
 
 ## Sobre Mim
-Olá! Sou Rafael Fernandes Durães, um estudante de 19 anos de Ciências da Computação. Minha paixão pela tecnologia me levou a explorar o mundo da programação, e estou animado para compartilhar meus projetos e aprendizados.
+Olá! Sou Rafael Fernandes Durães, estudante de Ciências da Computação, apaixonado por tecnologia e programação. Meu interesse por essa área surgiu naturalmente, e desde então, tenho me dedicado ao aprendizado e desenvolvimento de projetos que refletem meu crescimento na computação.
 
 ## Descrição
-Este repositório contém uma coleção de projetos acadêmicos e pessoais que desenvolvi durante minha jornada na faculdade. 
+Este repositório reúne uma coleção de projetos acadêmicos e pessoais, desenvolvidos durante minha jornada na faculdade. Cada projeto busca aplicar conceitos fundamentais da computação, explorando boas práticas de desenvolvimento e versionamento de código.
 
 ## Estrutura do Repositório
+O repositório está organizado da seguinte forma:
 
+```
+📂 portfolio_projetos
+ ├── 📂 projetos_academicos
+ │   ├── 📂 controle_acesso_visitantes
+ │   ├── 📂 controle_atendimento_monitoria
+ │   ├── 📂 gestao_cursos
+ │   └── ...
+ ├── 📂 projetos_pessoais
+ │   ├── 📂 nome_projeto_1
+ │   ├── 📂 nome_projeto_2
+ │   └── ...
+ ├── 📜 README.md
+ └── 📜 LICENSE
+```
+
+## Projetos Acadêmicos
+Aqui estão alguns dos projetos acadêmicos desenvolvidos:
+
+### 1. Controle de Acesso de Visitantes *(05/10/2024)*
+Sistema para registrar e gerenciar o acesso de visitantes em um ambiente controlado.
+
+### 2. Controle de Atendimento de Monitoria *(06/10/2024)*
+Aplicação para organizar e registrar atendimentos realizados por monitores acadêmicos.
+
+### 3. Gestão de Cursos *(07/10/2024)*
+Sistema para administrar cursos, gerenciar matrículas e acompanhar o progresso dos alunos.
+
+## Tecnologias Utilizadas
+- **Linguagens**: Python, SQL
+- **Ferramentas**: PyCharm, GitHub, Trello, Google Drive
+- **Banco de Dados**: MySQL
+
+## Como Contribuir
+Se tiver interesse em contribuir ou fornecer feedback, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+## Contato
+📧 Email: [Seu Email]
+🔗 LinkedIn: [Seu LinkedIn]
