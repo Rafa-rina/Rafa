@@ -9,21 +9,6 @@ Este repositório reúne uma coleção de projetos acadêmicos e pessoais, desen
 ## Estrutura do Repositório
 O repositório está organizado da seguinte forma:
 
-```
-📂 portfolio_projetos
- ├── 📂 projetos_academicos
- │   ├── 📂 controle_acesso_visitantes
- │   ├── 📂 controle_atendimento_monitoria
- │   ├── 📂 gestao_cursos
- │   └── ...
- ├── 📂 projetos_pessoais
- │   ├── 📂 nome_projeto_1
- │   ├── 📂 nome_projeto_2
- │   └── ...
- ├── 📜 README.md
- └── 📜 LICENSE
-```
-
 ## Projetos Acadêmicos
 Aqui estão alguns dos projetos acadêmicos desenvolvidos:
 
@@ -45,5 +30,4 @@ Sistema para administrar cursos, gerenciar matrículas e acompanhar o progresso 
 Se tiver interesse em contribuir ou fornecer feedback, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
 ## Contato
-📧 Email: [Seu Email]
-🔗 LinkedIn: [Seu LinkedIn]
+📧 Email: fernandesrafael520@gmail.com
